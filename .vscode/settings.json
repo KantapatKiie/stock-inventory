@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "name": "Frontend",
+      "path": "./frontend"
+    },
+    {
+      "name": "Backend", 
+      "path": "./backend"
+    }
+  ],
+  "settings": {
+    "dotnet.defaultSolution": "./backend/ECommerceAPI.sln"
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-dotnettools.csharp",
+      "ms-dotnettools.csdevkit",
+      "bradlc.vscode-tailwindcss",
+      "esbenp.prettier-vscode",
+      "ms-vscode.vscode-typescript-next"
+    ]
+  }
+}
